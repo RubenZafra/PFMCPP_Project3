@@ -341,11 +341,11 @@ I will review the pseudo-code that you have written.
 /*
 Thing 1) Car Workshop
 5 properties: 
-    1) number of employees
-    2) number of cars to repair
-    3) number of parts available
-    4) amount of profit made from repairs
-    5) number of calls received that day
+    1) number of employees (int)
+    2) number of cars to repair (int)
+    3) number of parts available (int)
+    4) amount of profit made from repairs (float)
+    5) number of calls received that day (int)
 3 things it can do:
     1) repair car engines
     2) repair car tires
@@ -355,11 +355,11 @@ Thing 1) Car Workshop
 /*
 Thing 2) Library
 5 properties:
-    1) number of books
-    2) number of clients
-    3) number of employees
-    4) number of loans
-    5) number of tables
+    1) number of books (int)
+    2) number of clients (int)
+    3) number of employees (int)
+    4) number of loans (int)
+    5) number of tables (int)
 3 things it can do:
     1) lend books
     2) research data base
@@ -369,11 +369,11 @@ Thing 2) Library
 /*
 Thing 3) Music Studio
 5 properties:
-    1) number of instruments
-    2) number of input channels
-    3) number of speakers
-    4) number of tracks recorded
-    5) number of engineers
+    1) number of instruments (int)
+    2) number of input channels (int)
+    3) number of speakers (int)
+    4) number of tracks recorded (int)
+    5) number of engineers (int)
 3 things it can do:
     1) record vocals
     2) mix music
@@ -464,11 +464,11 @@ Thing 9) motherboard
 /*
 Thing 10) Computer
 5 properties:
-    1) CPU
-    2) GPU
-    3) RAM
-    4) Display
-    5) Keyboard
+    1) CPU (int)
+    2) GPU (int)
+    3) RAM (int)
+    4) Display (int)
+    5) Keyboard (int)
 3 things it can do:
     1) create plugins
     2) mix music
