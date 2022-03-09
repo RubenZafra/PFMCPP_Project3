@@ -464,11 +464,11 @@ Thing 9) motherboard
 /*
 Thing 10) Computer
 5 properties:
-    1) CPU (int)
-    2) GPU (int)
-    3) RAM (int)
-    4) Display (int)
-    5) Keyboard (int)
+    1) CPU 
+    2) GPU 
+    3) RAM 
+    4) Display 
+    5) Keyboard 
 3 things it can do:
     1) create plugins
     2) mix music
