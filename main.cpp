@@ -528,15 +528,15 @@ Thing 10) Computer
 struct Computer
 {
 //1) CPU
-    int cpu = 1;
+    CPU cpu;
 //2) GPU 
-    int gpu = 2;
+    GPU gpu;
 //3) RAM 
-    int ram = 8;
+    RAM ram;
 //4) Display 
-    int display = 2;
-//5) Keyboard 
-    int keyboard = 1;
+    Display display;
+//5) Motherboard 
+    Motherboard motherboard;
 
 //1) create plugins
     void createPlugin();
